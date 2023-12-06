@@ -1,0 +1,15 @@
+body {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+h1 {
+  color: fuchsia;
+}
+ul {
+  display: inline-block;
+  list-style: disc;
+}
+ul button {
+  margin-left: 1em;
+}
